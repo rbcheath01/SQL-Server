@@ -1,2 +1,2 @@
-# SQL-Server
-SQL Server Development
+# SQL Server
+SQL Server Administration and Development
